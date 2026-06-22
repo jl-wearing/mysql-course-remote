@@ -2,8 +2,8 @@
 
 A chapter-by-chapter exploration of relational database development based on *MySQL Crash Course* by Rick Silva. Covers SQL fundamentals, data modeling, database objects, and real-world projects using MySQL 8.0.
 
-<!-- Replace the src below with your uploaded GitHub image URL -->
-<img width="626" height="825" alt="MySQL Crash Course book cover" src="YOUR_IMAGE_URL_HERE" />
+<img width="672" height="707" alt="image" src="https://github.com/user-attachments/assets/ee6eefe9-7774-4722-97ab-bed145cdc7da" />
+
 
 ---
 
@@ -44,22 +44,22 @@ A chapter-by-chapter exploration of relational database development based on *My
 The goal of this project was to build a solid, practical understanding of relational databases and SQL from the ground up — not just how to write queries, but *why* they work the way they do.
 
 ### Part I & II: The Foundation (Thinking in Tables)
-- **Databases and Tables:** Designing schemas and understanding how data is structured into rows and columns with enforced types.
-- **SQL Querying:** Writing `SELECT` statements to filter, sort, and retrieve data — including handling `NULL` values and commenting SQL code for clarity.
-- **Joins:** Connecting multiple tables together to answer questions that span across related data, including complex multi-table joins using subqueries, CTEs, and derived tables.
-- **Built-in Functions:** Leveraging MySQL's library of functions for string manipulation, date arithmetic, and aggregations.
+**Databases and Tables:** Designing schemas and understanding how data is structured into rows and columns with enforced types.
+**SQL Querying:** Writing `SELECT` statements to filter, sort, and retrieve data — including handling `NULL` values and commenting SQL code for clarity.
+**Joins:** Connecting multiple tables together to answer questions that span across related data, including complex multi-table joins using subqueries, CTEs, and derived tables.
+**Built-in Functions:** Leveraging MySQL's library of functions for string manipulation, date arithmetic, and aggregations.
 
 ### Part III & IV: Database Objects and Advanced Usage
-- **Views:** Creating virtual tables that simplify complex queries and can be used to restrict access to sensitive columns.
-- **Stored Procedures and Functions:** Writing reusable, parameterized SQL routines that live inside the database itself.
-- **Triggers:** Automating actions that fire in response to data changes — useful for auditing, enforcing rules, and preventing bad data.
-- **Events:** Scheduling SQL code to run automatically at set intervals, like a cron job built into the database.
-- **Calling MySQL from Code:** Integrating MySQL with PHP, Python, and Java to understand how databases fit into a broader application stack.
+**Views:** Creating virtual tables that simplify complex queries and can be used to restrict access to sensitive columns.
+**Stored Procedures and Functions:** Writing reusable, parameterized SQL routines that live inside the database itself.
+**Triggers:** Automating actions that fire in response to data changes — useful for auditing, enforcing rules, and preventing bad data.
+**Events:** Scheduling SQL code to run automatically at set intervals, like a cron job built into the database.
+**Calling MySQL from Code:** Integrating MySQL with PHP, Python, and Java to understand how databases fit into a broader application stack.
 
 ### Part V: Projects
-- **Weather Database:** Designing and populating a database from scratch to track weather data.
-- **Voter Data with Triggers:** Using triggers to audit and prevent errors in an election database.
-- **Salary Data with Views:** Using views and permission controls to protect sensitive employee information.
+**Weather Database:** Designing and populating a database from scratch to track weather data.
+**Voter Data with Triggers:** Using triggers to audit and prevent errors in an election database.
+**Salary Data with Views:** Using views and permission controls to protect sensitive employee information.
 
 ---
 
