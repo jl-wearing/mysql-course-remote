@@ -16,7 +16,7 @@ A chapter-by-chapter exploration of relational database development based on *My
 **Part II — Selecting Data from a MySQL Database**
 - ✅ Introduction to SQL
 - ✅ MySQL Data Types
-- 🟠 Joining Database Tables
+- ✅ Joining Database Tables
 - 🟠 Performing Complex Joins with Multiple Tables
 - 🔴 Comparing Values
 - 🔴 Calling Built-in MySQL Functions
